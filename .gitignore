@@ -1,1 +1,18 @@
+#secretos
 secreto.txt
+*.log
+
+#bloqueos
+*.hcl
+
+#binarios
+.terraform
+
+#tfplan
+tfplan
+
+.gitignore
+
+#configuracion de Cloud SDK
+.config/
+*.db
